@@ -1,0 +1,4 @@
+vahana/dms/repository/ObjectTransactionRepo.class
+vahana/dms/service/ObjectTransactionService.class
+vahana/dms/service/impl/ObjectTransactionServiceImpl.class
+vahana/dms/domain/ObjectTransaction.class

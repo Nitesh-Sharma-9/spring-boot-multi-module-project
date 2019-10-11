@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RedisIntegration/RedisIntegration.iml" filepath="$PROJECT_DIR$/RedisIntegration/RedisIntegration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parentdemo.iml" filepath="$PROJECT_DIR$/parentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redismoduler/redismoduler.iml" filepath="$PROJECT_DIR$/redismoduler/redismoduler.iml" />
+    </modules>
+  </component>
+</project>

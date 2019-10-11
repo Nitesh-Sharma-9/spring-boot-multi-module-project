@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RedisIntegration" />
+        <module name="redismoduler" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parentdemo" target="1.8" />
+      <module name="postgres" target="1.8" />
+      <module name="postgresIntegration" target="1.8" />
+      <module name="PostgressIntegration" target="1.8" />
+      <module name="RedisIntegration" target="1.8" />
+      <module name="redismoduler" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="PostgressIntegration" options="-parameters" />
+      <module name="RedisIntegration" options="-parameters" />
+      <module name="parentdemo" options="-parameters" />
+      <module name="postgres" options="-parameters" />
+      <module name="postgresIntegration" options="-parameters" />
+      <module name="redismoduler" options="-parameters" />
+    </option>
+  </component>
+</project>
